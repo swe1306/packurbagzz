@@ -1,0 +1,36 @@
+@media screen and (max-width: 932px) {
+  html {
+    font-size: 45%;
+  }
+  nav {
+    text-align: center;
+  }
+  #logo {
+    padding: 1rem;
+  }
+  .cloud {
+    height: 40rem;
+    pointer-events: none;
+  }
+  .moving-cloud-2 {
+    top: 10%;
+  }
+  .locations-header h3 {
+    -webkit-text-fill-color: #fff;
+    background: rgba(19, 28, 39, 0.9);
+    padding: 1.5rem;
+  }
+
+  /* Form Section */
+  .form-wrapper {
+    width: 95%;
+  }
+
+  /* Footer */
+  footer {
+    text-align: center;
+  }
+  footer h5 {
+    padding-bottom: 3rem;
+  }
+}
